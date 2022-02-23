@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test different actions on a list" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-02-23T21:23:48" hostname="DESKTOP-2533FTU" time="46.684">
+  <properties/>
+  <testcase name="As a test engineer I want to validate that the text is present inside the list #1" classname="Test different actions on a list" time="42.547"/>
+  <testcase name="As a test engineer I want to validate that the text is present inside the list #2" classname="Test different actions on a list" time="4.136"/>
+  <system-out><![CDATA[Text is on the list
+Text is on the list
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 98.0.4758.102 (273bf7ac8c909cde36982d27f66f3c70846a3718-refs/branch-heads/4758@{#1151}) on port 65057
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+feb. 23, 2022 3:24:16 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+feb. 23, 2022 3:24:20 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 98, so returning the closest version found: 97
+feb. 23, 2022 3:24:20 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 98 of 97
+]]></system-err>
+</testsuite>
